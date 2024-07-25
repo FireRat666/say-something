@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "-",
+  "main": "app.js",
+  "repository": "-",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "javascript-obfuscator": "^4.1.1",
+    "google-tts-api": "^2.0.2",
+    "cors": "^2.8.5"
+  }
+}
